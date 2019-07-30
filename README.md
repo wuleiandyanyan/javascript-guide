@@ -1,7 +1,5 @@
-# javascript guide
-
-## 课程一：JavaScript权威指南
----
+# JavaScript权威指南
+# *JavaScript: The Definitive Guide*
 
  讲师 | 章节
 ---|--- 
